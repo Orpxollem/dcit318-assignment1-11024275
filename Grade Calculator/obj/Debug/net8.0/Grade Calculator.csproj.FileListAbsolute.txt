@@ -1,0 +1,14 @@
+C:\Users\melvi\Desktop\asss\318\dcit318-assignment1-11024275\Grade Calculator\bin\Debug\net8.0\Grade Calculator.exe
+C:\Users\melvi\Desktop\asss\318\dcit318-assignment1-11024275\Grade Calculator\bin\Debug\net8.0\Grade Calculator.deps.json
+C:\Users\melvi\Desktop\asss\318\dcit318-assignment1-11024275\Grade Calculator\bin\Debug\net8.0\Grade Calculator.runtimeconfig.json
+C:\Users\melvi\Desktop\asss\318\dcit318-assignment1-11024275\Grade Calculator\bin\Debug\net8.0\Grade Calculator.dll
+C:\Users\melvi\Desktop\asss\318\dcit318-assignment1-11024275\Grade Calculator\bin\Debug\net8.0\Grade Calculator.pdb
+C:\Users\melvi\Desktop\asss\318\dcit318-assignment1-11024275\Grade Calculator\obj\Debug\net8.0\Grade Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\melvi\Desktop\asss\318\dcit318-assignment1-11024275\Grade Calculator\obj\Debug\net8.0\Grade Calculator.AssemblyInfoInputs.cache
+C:\Users\melvi\Desktop\asss\318\dcit318-assignment1-11024275\Grade Calculator\obj\Debug\net8.0\Grade Calculator.AssemblyInfo.cs
+C:\Users\melvi\Desktop\asss\318\dcit318-assignment1-11024275\Grade Calculator\obj\Debug\net8.0\Grade Calculator.csproj.CoreCompileInputs.cache
+C:\Users\melvi\Desktop\asss\318\dcit318-assignment1-11024275\Grade Calculator\obj\Debug\net8.0\Grade Calculator.dll
+C:\Users\melvi\Desktop\asss\318\dcit318-assignment1-11024275\Grade Calculator\obj\Debug\net8.0\refint\Grade Calculator.dll
+C:\Users\melvi\Desktop\asss\318\dcit318-assignment1-11024275\Grade Calculator\obj\Debug\net8.0\Grade Calculator.pdb
+C:\Users\melvi\Desktop\asss\318\dcit318-assignment1-11024275\Grade Calculator\obj\Debug\net8.0\Grade Calculator.genruntimeconfig.cache
+C:\Users\melvi\Desktop\asss\318\dcit318-assignment1-11024275\Grade Calculator\obj\Debug\net8.0\ref\Grade Calculator.dll
